@@ -1,10 +1,3 @@
-/*Amor, eu fazendo as contas aqui, sabe o que percebi, realmente na Bia vai valer muito mais a pena,
-porque? Vou dar um exemplo, vamos supor que fiz o mínimo de 4.000 por mês 
-(dividir em porcentagem normal das clínicas de 35%) 4.000-35% pra mim,
-ficaria 1.400 pra mim, ou seja, tá sendo muito mais válido ela me passar realmente o valor
-fixo de 1.500 + 15% da comissão por fora ainda que vou fazer, agora vamos contar de novo, 4.000
-(mínimo do mês todo) menos 15%pra mim dar 600,00 + 1500 fixo = 2.100 */
-
 /*  Tenho que desenvolver um programa que leia o valor fixo do profissional +
 comissão de 15% sob total de clientes atendidos, sendo o valor de cada atendimento R$ 120,00.
     Depois irá realizar o mesmo calculo levando em consideração outras empresas que não pagam salário fixo
